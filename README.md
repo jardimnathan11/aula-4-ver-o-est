@@ -13,4 +13,4 @@ ggsave('rast 120.png')
 rast990_agg = aggregate(my_rast , fact = 33)
 plot(ras990t_agg)
 ggsave("rast 990.png")
-res(rast_agg)
+#as imagens nao mudaram tanto assim
